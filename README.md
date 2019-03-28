@@ -32,4 +32,5 @@ Below are some screenshots that show the functionality of the app.
 
 <a name="customer"></a>
 - Below is a demo of the `BamazonCustomer.js` file...
-      ![Customer Order](/screenshot.png)# bamazon
+      ![Customer Order](/screenshot.png)
+      ![Insufficient Stock](/screenshot2.png)
