@@ -1,0 +1,15 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "### Overview A Node.js &amp; MySQL digital storefront. This is a command line Node app that mimics a beloved online retailer.",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phong Huynh",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "prompt": "^1.0.0"
+  }
+}
